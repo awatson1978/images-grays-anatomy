@@ -1,6 +1,6 @@
 **images-grays-anatomy** is a Meteorite package to add image assets from Grays Anatomy to your application.
 
-#WARNING:  THIS PACKAGE IS 11MB LARGE!
+## WARNING:  THIS PACKAGE IS 11MB LARGE!
 
 ------------------------
 ### Installation
